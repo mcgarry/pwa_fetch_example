@@ -1,4 +1,4 @@
-<img src="https://www.3rdcastle.com/ci/images/logo-lg-red.svg" style="margin: 0;width:20%;height:20%;">
+<img src="https://www.3rdcastle.com/ci/img/logo-lg-red.svg" style="margin: 0;width:20%;height:20%;">
 
 Welcome USER_NAME,
 
