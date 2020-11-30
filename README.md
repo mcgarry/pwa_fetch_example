@@ -1,4 +1,4 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<img src="https://www.3rdcastle.com/ci/images/logo-lg-red.svg" style="margin: 0;width:20%;height:20%;">
 
 Welcome USER_NAME,
 
