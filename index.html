@@ -9,6 +9,7 @@
             let url = "";
             let myAPI = "";
             let food = "pancake";
+            ////// replace url with a path your own JSON data file (for App 2) or localhost URL to PHP file (for App 3) 
             url = "https://api.nal.usda.gov/fdc/v1/foods/search?api_key="+myAPI+"&query="+food;
             fetch(url)
             .then(response => {
@@ -17,7 +18,10 @@
                 }
                 return response.json();
             }).then(data => {
+                // Success
+                ////////// Start Here ////////
                 console.log(data);
+                ///////// End Here //////////
             }).catch(error => {
                 console.log(error);
             });
